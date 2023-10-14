@@ -1,5 +1,5 @@
 ## Curve Catch Challenge
-CurveCatch is a company on a mission to transform the bra-wearing experience for everyone. Founded by Kimia and Nils, our platform empowers individuals to make informed decisions about their intimate clothing and revel in the comfort and confidence a well-fitting bra provides. We believe in transparency, collaboration, and the joy of finding the perfect fit.
+CurveCatch is a company on a mission to transform the bra-wearing experience for everyone. Founded by Kimia and Nils, our platform empowers individuals to make informed decisions about their intimate clothing and revel in the comfort and confidence a well-fitting bra provides.
 
 ### Introduction
 This project leverages deep learning techniques to create a classification model for different bra categories. The dataset comprises images of bras categorized into four types: bralettes, full cups, balconies, and plunges.
