@@ -14,8 +14,11 @@ Several models were implemented and evaluated for this classification task:
 - ResNet50
 
 ### Results
-The ![image](https://github.com/schndr20/Projects/assets/141735182/5484db94-ab10-4cd3-8931-5fc39ea8b82b)
+The test accuracy for the best-trained model was 92.00 %.
 
+![image](https://github.com/schndr20/Projects/assets/141735182/5484db94-ab10-4cd3-8931-5fc39ea8b82b)
+
+This model was submitted to our teacher with the prediction for unlabeled data. He compared it to the solution and we reached an accuracy of 85 %
 
 ### Future Improvements
 To further improve this project, consider the following:
