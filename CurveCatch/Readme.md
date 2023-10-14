@@ -1,6 +1,5 @@
 ## Curve Catch Challenge
-This project focuses on classifying bra categories using various deep-learning models. The goal is to categorize bras into specific types 
-such as bralettes, full cups, balconies, and plunges based on images.
+CurveCatch is a company on a mission to transform the bra-wearing experience for everyone. Founded by Kimia and Nils, our platform empowers individuals to make informed decisions about their intimate clothing and revel in the comfort and confidence a well-fitting bra provides. We believe in transparency, collaboration, and the joy of finding the perfect fit.
 
 ### Introduction
 This project leverages deep learning techniques to create a classification model for different bra categories. The dataset comprises images of bras categorized into four types: bralettes, full cups, balconies, and plunges.
@@ -15,7 +14,8 @@ Several models were implemented and evaluated for this classification task:
 - ResNet50
 
 ### Results
-The models were evaluated on a test set, and the results were recorded. The evaluation results, including accuracy and loss curves, can be found in the respective Jupyter notebooks.
+The ![image](https://github.com/schndr20/Projects/assets/141735182/5484db94-ab10-4cd3-8931-5fc39ea8b82b)
+
 
 ### Future Improvements
 To further improve this project, consider the following:
