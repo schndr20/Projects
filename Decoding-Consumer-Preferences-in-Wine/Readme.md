@@ -1,0 +1,1 @@
+This directory is the code and the gathered data for my master thesis in Business Analytics at Católica Lisbon School of Business and Economics, written under the supervision of Professor Nicolò Bertani.
