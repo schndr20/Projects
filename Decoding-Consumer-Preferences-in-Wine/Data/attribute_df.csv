@@ -1,0 +1,74 @@
+attribute_type,feature,color
+intrinsic,wine_style,#fc7d0b
+intrinsic,wine_style_description,#fc7d0b
+intrinsic,grapes,#fc7d0b
+intrinsic,body_description,#fc7d0b
+intrinsic,acidity,#fc7d0b
+intrinsic,sweetness,#fc7d0b
+intrinsic,intensity,#fc7d0b
+intrinsic,tannin,#fc7d0b
+intrinsic,fizziness,#fc7d0b
+intrinsic,alcohol,#fc7d0b
+intrinsic,amount_grapes,#fc7d0b
+intrinsic,wine_type,#fc7d0b
+intrinsic,vegetal,#fc7d0b
+intrinsic,oak,#fc7d0b
+intrinsic,spices,#fc7d0b
+intrinsic,tropical_fruit,#fc7d0b
+intrinsic,non_oak,#fc7d0b
+intrinsic,earth,#fc7d0b
+intrinsic,tree_fruit,#fc7d0b
+intrinsic,floral,#fc7d0b
+intrinsic,black_fruit,#fc7d0b
+intrinsic,microbio,#fc7d0b
+intrinsic,dried_fruit,#fc7d0b
+intrinsic,citrus_fruit,#fc7d0b
+intrinsic,red_fruit,#fc7d0b
+intrinsic,amount_flavor_words,#fc7d0b
+extrinsic,wine,#1170aa
+extrinsic,winery,#1170aa
+extrinsic,region,#1170aa
+extrinsic,ratings_average,#1170aa
+extrinsic,ratings_number,#1170aa
+extrinsic,all_vintage_ratings_average,#1170aa
+extrinsic,all_vintage_ratings_count,#1170aa
+extrinsic,price,#1170aa
+extrinsic,price_type,#1170aa
+extrinsic,interesting_facts,#1170aa
+extrinsic,bottle_type,#1170aa
+extrinsic,has_wine_style_description,#1170aa
+extrinsic,has_interesting_facts,#1170aa
+extrinsic,beef,#1170aa
+extrinsic,mild and soft cheese,#1170aa
+extrinsic,blue cheese,#1170aa
+extrinsic,shellfish,#1170aa
+extrinsic,sweet desserts,#1170aa
+extrinsic,veal,#1170aa
+extrinsic,lean fish,#1170aa
+extrinsic,appetizers and snacks,#1170aa
+extrinsic,game (deer & vension),#1170aa
+extrinsic,vegetarian,#1170aa
+extrinsic,cured meat,#1170aa
+extrinsic,mature and hard cheese,#1170aa
+extrinsic,aperitif,#1170aa
+extrinsic,lamb,#1170aa
+extrinsic,fruity desserts,#1170aa
+extrinsic,pasta,#1170aa
+extrinsic,pork,#1170aa
+extrinsic,rich fish (salmon & tuna etc),#1170aa
+extrinsic,poultry,#1170aa
+extrinsic,vegetal,#1170aa
+extrinsic,amount_food_words,#1170aa
+extrinsic,vintage,#1170aa
+personal,rating,#a3acb9
+personal,review,#a3acb9
+personal,likes_on_review,#a3acb9
+personal,comments_on_review,#a3acb9
+personal,user_language,#a3acb9
+personal,user_follower,#a3acb9
+personal,user_following,#a3acb9
+personal,user_total_given_ratings,#a3acb9
+personal,user_total_sum_ratings,#a3acb9
+personal,user_total_given_reviews,#a3acb9
+personal,user_purchase_made,#a3acb9
+personal,rating_label,#a3acb9
